@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">custom_list</string>
+
+    <string name="peito_Triceps">Flexão de solo 3x MAx\n
+
+Supino Reto Carga progressiva 4x10\n
+
+Supino Inclinado 4x12\n
+
+Crucifixo 4x12\n
+
+Tríceps testa 4x12\n
+
+Tríceps corda 4x12\n
+
+Pulldown 3x12\n
+
+Tríceps na corda 3xMAX
+    </string>
+
+    <string name="super_Pernas">Aquecimento
+    Agachamento  livre 2x12\n
+    Agachamento livre + carga 4x12\n
+    Leg 45% 4x10\n
+    Cadeira extensora 3x15\n
+    Afundo 3x20\n
+    Panturilhha\n
+    Gemêos 4x12\n
+    Leg 45 4x12 V \n
+    Cadeira pant. 4x12</string>
+
+
+    <string name="costas_biceps">Barra livre 3xMAx\n\n
+        Puxada Frente 4x10\n\n
+            Remada curvada 4x10\n\n
+            Remada Baixa 4x12\n\n
+            Remada Cavalo 4x10\n\n
+            Biceps\n\n
+            Rosca direta 4x10\n\n
+            Rosca Invertida 4x10\n\n
+            Rosca 21 3x21\n\n
+            Uni lateral 4x8
+        </string>
+    <string name="treino_ombro">Ombro\n
+            Elevação lateral 3x10\n
+            Elevação frontal 3x10\n
+            Desenvolvimento 4x12\n
+            Remada alta 4x10\n
+            Enconlhimento 4x15
+
+        </string>
+    <string name="treino_aerobico">Aeróbico\n
+        Corrida fraca 7min\n
+        Bike fraca 7 min\n
+            Corrida Media 5 min\n
+            Bike media 5min\n
+            Corrida forte 1km max
+            Bike leve 4min\n
+            Alongamento 45s
+        </string>
+
+    <string name="descanso">Descanso entre as series de 30 sergundos cada</string>
+    <string name="recomendação">Se hidrate e coma bem </string>
+
+
+</resources>
+
+
+
+

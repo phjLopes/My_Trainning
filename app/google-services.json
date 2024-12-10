@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "999557944081",
+    "project_id": "projetoads-918d1",
+    "storage_bucket": "projetoads-918d1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999557944081:android:cdfabcd8d9b964466eb2b0",
+        "android_client_info": {
+          "package_name": "br.com.faculdade.my_trainning"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-10DMYrODVMxw6PRXeRqlZxhaEmpDQZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999557944081:android:fc6a7f88ce4048946eb2b0",
+        "android_client_info": {
+          "package_name": "br.com.faculdade.treinos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-10DMYrODVMxw6PRXeRqlZxhaEmpDQZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
